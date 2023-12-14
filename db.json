@@ -1,0 +1,62 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "chaver",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKZaB-xrRhwgig_RNK-0qmfxy7LlNC5FQdw&usqp=CAU",
+      "url": " https://www.youtube.com/embed/nYEoxne_20Y "
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "caption": "informative",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "chaver",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKZaB-xrRhwgig_RNK-0qmfxy7LlNC5FQdw&usqp=CAU",
+          "url": " https://www.youtube.com/embed/nYEoxne_20Y "
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardname": "rdx",
+      "url": " https://www.youtube.com/embed/mUlkAFF7ufw ",
+      "date": "08/12/2023"
+    },
+    {
+      "id": "a72eeda9-7796-46ac-b941-de96e0b72a48",
+      "cardname": "charlie 777",
+      "url": " https://www.youtube.com/embed/mUlkAFF7ufw ",
+      "Date": "2023-12-13T16:55:35.576Z"
+    },
+    {
+      "id": "984b5a28-9486-44e1-a300-ff49e2122cd4",
+      "cardname": "charlie 777",
+      "url": " https://www.youtube.com/embed/mUlkAFF7ufw ",
+      "Date": "2023-12-13T16:57:07.221Z"
+    },
+    {
+      "id": "d953663c-27d4-4ffb-88d5-22e9ad29d31d",
+      "cardname": "rdx",
+      "url": "https://www.youtube.com/watch?v=nYEoxne_20Y&list=RDnYEoxne_20Y&start_radio=1?autoplay=1",
+      "Date": "2023-12-13T17:28:22.997Z"
+    },
+    {
+      "id": "78dc2e2b-99dd-4054-8d9f-8e5af91ab52f",
+      "cardname": "charlie 777",
+      "url": " https://www.youtube.com/embed/mUlkAFF7ufw ",
+      "Date": "2023-12-13T17:41:45.631Z"
+    },
+    {
+      "id": "21c02a82-8abc-4346-9df3-5de694ec6170",
+      "cardname": "charlie 777",
+      "url": " https://www.youtube.com/embed/mUlkAFF7ufw ",
+      "Date": "2023-12-14T07:08:01.520Z"
+    }
+  ]
+}
